@@ -42,15 +42,18 @@ CodexRay is a smart, AI-driven code review assistant designed to audit code, sug
 
 
 2. **Install dependencies**
-npm install
+   ```bash
+   npm install
 
 
 3. **Setup environment variablesCreate a .env file in the project root and add the following:**
-GOOGLE_GEMINI_KEY=YOUR KEY
+   ```bash
+   GOOGLE_GEMINI_KEY=YOUR KEY
 
 
 4. **Run the development server**
-npm run dev
+   ```bash
+   npm run dev
 
 
 
