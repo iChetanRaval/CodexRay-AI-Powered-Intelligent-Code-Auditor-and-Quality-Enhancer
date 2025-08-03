@@ -16,6 +16,7 @@ const model = genAI.getGenerativeModel({
                 	•	Error Detection :- Spotting potential bugs, security risks, and logical flaws.
                 	•	Scalability :- Advising on how to make code adaptable for future growth.
                 	•	Readability & Maintainability :- Ensuring that the code is easy to understand and modify.
+                  • AI Generated Code: Detecting code is AI generated or not
 
                 Guidelines for Review:
                 	1.	Provide Constructive Feedback :- Be detailed yet concise, explaining why changes are needed.
