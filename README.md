@@ -77,7 +77,3 @@ Use LLMs for ethical code classification (AI vs Human)
 Chetan Raval  
 
 GitHub: iChetanRaval 
-
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
